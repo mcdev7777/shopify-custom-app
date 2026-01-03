@@ -1,0 +1,7 @@
+{
+  "name": "Shopify Custom App Ecosystem",
+  "description": "A comprehensive suite for Shopify merchants including an ERP dashboard, POS terminal, automation builder, and AI-powered pricing intelligence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
